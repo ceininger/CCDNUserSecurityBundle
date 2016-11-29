@@ -1,8 +1,8 @@
 {
-    "name": "eurodata/ccdn-user-security-bundle",
-    "description": "CCDN User Security Bundle [eurodata]",
-    "keywords": ["eurodata", "ccdn", "codeconsortium", "user", "security", "brute force", "dictionary attack", "login"],
-    "homepage": "http://github.com/eurodata/CCDNUserSecurityBundle",
+    "name": "ceininger/ccdn-user-security-bundle",
+    "description": "CCDN User Security Bundle [ceininger]",
+    "keywords": ["ceininger", "eurodata", "ccdn", "codeconsortium", "user", "security", "brute force", "dictionary attack", "login"],
+    "homepage": "http://github.com/ceininger/CCDNUserSecurityBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
